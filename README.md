@@ -40,7 +40,7 @@
 2.4. Importance of Identifying Design Properties
 Identifying design properties in a mockup is essential to maintain visual consistency and brand identity throughout the application. It ensures that developers accurately implement the designer’s vision, leading to a cohesive user experience. Clear documentation of colors, typography, and spacing also helps the team work efficiently, reduce design discrepancies, and create a polished, professional interface that enhances usability and accessibility.
 
-3. Project Roles and Responsibilities
+3. Project/ Team Roles and Responsibilities
 
 3.1. Project Manager
 The Project Manager oversees the project timeline, ensuring all tasks are completed on schedule. They coordinate communication between team members, manage deliverables, and ensure that project goals align with client or stakeholder expectations.
